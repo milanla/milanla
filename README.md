@@ -1,5 +1,10 @@
-### Hi there 👋
+![dinosaur](./img/dinosaur.GIF)
 
+### Hi there! I'm Milan 👋
+
+🔭 I’m currently working at Thesis as a Frontend Engineer 
+
+🐥 Connect with me on [codepen](https://codepen.io/milanla) | [twitter](https://twitter.com/codermilan) | [linkedin](https://www.linkedin.com/in/milan-sacher)
 <!--
 **milanla/milanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
