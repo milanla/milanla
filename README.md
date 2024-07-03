@@ -1,8 +1,6 @@
-![dinosaur](./img/dinosaur.GIF)
-
 ### Hi there! I'm Milan 👋
 
-🔭 I’m currently working at TeePublic as a Frontend Engineer 
+🔭 I’m currently working at TeePublic as a Software Engineer 
 
 🐥 Connect with me on [codepen](https://codepen.io/milanla) | [twitter](https://twitter.com/codermilan) | [linkedin](https://www.linkedin.com/in/milan-sacher)
 <!--
