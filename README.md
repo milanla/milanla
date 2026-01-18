@@ -1,6 +1,6 @@
 ### Hi there! I'm Milan 👋
 
-🔭 I’m currently working at TeePublic as a Software Engineer 
+🔭 I’m currently a Senior Software Engineer at TeePublic.
 
 <!--
 **milanla/milanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
